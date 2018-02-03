@@ -1,0 +1,163 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# expo
+.expo/
+
+# dependencies
+/node_modules
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+Last login: Sat Feb  3 14:49:20 on ttys000
+galaxy-j7-2016:navApp java$ pwd
+/Users/java/workspace/react/navApp
+galaxy-j7-2016:navApp java$ vi package.json
+galaxy-j7-2016:navApp java$ pwd
+/Users/java/workspace/react/navApp
+galaxy-j7-2016:navApp java$ git init
+Initialized empty Git repository in /Users/java/workspace/react/navApp/.git/
+galaxy-j7-2016:navApp java$ git cd ..
+git: 'cd' is not a git command. See 'git --help'.
+
+Did you mean this?
+	add
+galaxy-j7-2016:navApp java$ cd ..
+galaxy-j7-2016:react java$ cd old-navApp/
+galaxy-j7-2016:old-navApp java$ ls
+App.js		App.test.js	README.md	android		app.json	index.js	ios		node_modules	package.json	pom.xml		yarn.lock
+galaxy-j7-2016:old-navApp java$ vi .git
+.git/           .gitattributes  .gitignore      
+galaxy-j7-2016:old-navApp java$ vi .git
+.git/           .gitattributes  .gitignore      
+galaxy-j7-2016:old-navApp java$ vi .gitignore 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# expo
+.expo/
+
+# dependencies
+/node_modules
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/target/
+# Xcode
+!**/*.xcodeproj
+!**/*.pbxproj
+!**/*.xcworkspacedata
+!**/*.xcsettings
+!**/*.xcscheme
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+
+# Gradle
+/build/
+/RNTester/android/app/build/
+/RNTester/android/app/gradle/
+/RNTester/android/app/gradlew
+/RNTester/android/app/gradlew.bat
+/ReactAndroid/build/
+
+# Buck
+.buckd
+buck-out
+/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/
+/ReactAndroid/src/main/jni/prebuilt/lib/x86/
+/ReactAndroid/src/main/gen
+
+# Android
+.idea
+.gradle
+local.properties
+*.iml
+android/build/
+android/app/build/
+
+# Node
+node_modules
+*.log
+.nvm
+/danger/node_modules/
+
+# OS X
+-- INSERT -- 
+
